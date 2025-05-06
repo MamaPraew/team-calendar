@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar_Web", "Calendar_Web\Calendar_Web.csproj", "{1B5B466C-1D8F-4B3F-BE96-749B5414D833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORA_BEL", "ORA_BEL\ORA_BEL.csproj", "{FCAB30FB-02A2-4CFC-8A86-B195E85B2B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORA_BLL", "ORA_BLL\ORA_BLL.csproj", "{1EFDC5E8-0ABD-4FAB-9F53-BCDB4605BC3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORA_DAL", "ORA_DAL\ORA_DAL.csproj", "{FCC81451-C079-499C-A10F-0CEEDA551BA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5B466C-1D8F-4B3F-BE96-749B5414D833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5B466C-1D8F-4B3F-BE96-749B5414D833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5B466C-1D8F-4B3F-BE96-749B5414D833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5B466C-1D8F-4B3F-BE96-749B5414D833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAB30FB-02A2-4CFC-8A86-B195E85B2B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAB30FB-02A2-4CFC-8A86-B195E85B2B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAB30FB-02A2-4CFC-8A86-B195E85B2B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAB30FB-02A2-4CFC-8A86-B195E85B2B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFDC5E8-0ABD-4FAB-9F53-BCDB4605BC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFDC5E8-0ABD-4FAB-9F53-BCDB4605BC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFDC5E8-0ABD-4FAB-9F53-BCDB4605BC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFDC5E8-0ABD-4FAB-9F53-BCDB4605BC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC81451-C079-499C-A10F-0CEEDA551BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC81451-C079-499C-A10F-0CEEDA551BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC81451-C079-499C-A10F-0CEEDA551BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC81451-C079-499C-A10F-0CEEDA551BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B96A5F1-61C9-4BAB-8E3F-B7F3D4AAF6AB}
+	EndGlobalSection
+EndGlobal

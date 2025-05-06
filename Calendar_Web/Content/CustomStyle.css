@@ -1,0 +1,17 @@
+﻿
+
+.dxbs-scheduler .dxbs-week-view .dxsc-date-cell-head {
+    background-color: #8592a3 !important;
+    color:white;
+}
+.bg-success {
+    background-color: #98FB98 !important;
+}
+.dxsc-tl-date-head {
+    background-color: #233446 !important;
+    color: white !important;
+}
+.dxsc-time-scale table {
+    background-color: #8592a3 !important;
+    color: white;
+}
